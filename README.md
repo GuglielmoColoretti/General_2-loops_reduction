@@ -12,4 +12,4 @@ Here we design the algorithm able to achieve the task we are aiming at.
 - Testing
 In this section, we test the reduction algorithm on several integrals with different topologies.
 
-The code has been also structured as a package. Nevertheless, the package is waiting for the complete results of the muon group at PSI to be released. In fact, this project of mine is part of a larger one, aiming to predict newe physics beyond the Standard Model. Our code is used to extract the anomalous dimension of the operators involved. 
+The code has been also structured as a package. Nevertheless, the package is waiting for the complete results of the muon group at PSI to be released. In fact, this project of mine is part of a larger one, aiming to predict new physics beyond the Standard Model. Our code is used to extract the anomalous dimension of the operators involved. 
