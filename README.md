@@ -7,7 +7,7 @@ The notebook is organized as follows:
 In this section all packages used in the notebook are loaded: X (https://packagex.hepforge.org/Documentation/HTML/X/guide/PackageX.html), HypExp (https://hypexp.hepforge.org/)
 - UV degree:
 Here we define a procedure to extract the UV degree of divergence from the two-loops tensor integrals.
-- Reduction algorithm
+- Reduction algorithm:
 Here we design the algorithm able to achieve the task we are aiming at.
 - Testing:
 In this section, we test the reduction algorithm on several integrals with different topologies.
